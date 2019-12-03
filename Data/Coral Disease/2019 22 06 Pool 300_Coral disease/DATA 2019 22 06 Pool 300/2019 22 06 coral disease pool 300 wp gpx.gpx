@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="-14.181495999999999" minlon="-169.657872000000000" maxlat="-14.180388000000001" maxlon="-169.656618000000010" />
+  </metadata>
+  <wpt lat="-14.180388" lon="-169.656855">
+    <ele>17.175488</ele>
+    <time>2019-06-23T00:39:23Z</time>
+    <name>START</name>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.180388</gpxx:lat>
+      <gpxx:lon>-169.656855</gpxx:lon>
+      <gpxx:y_proj>-14.180388</gpxx:y_proj>
+      <gpxx:x_proj>-169.656855</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.181183" lon="-169.656687">
+    <ele>16.984524</ele>
+    <time>2019-06-23T00:53:05Z</time>
+    <name>002</name>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.181183</gpxx:lat>
+      <gpxx:lon>-169.656687</gpxx:lon>
+      <gpxx:y_proj>-14.181183</gpxx:y_proj>
+      <gpxx:x_proj>-169.656687</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.181335" lon="-169.656632">
+    <ele>19.693029</ele>
+    <time>2019-06-23T01:01:15Z</time>
+    <name>003</name>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.181335</gpxx:lat>
+      <gpxx:lon>-169.656632</gpxx:lon>
+      <gpxx:y_proj>-14.181335</gpxx:y_proj>
+      <gpxx:x_proj>-169.656632</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.181329" lon="-169.656618">
+    <ele>16.450096</ele>
+    <time>2019-06-23T01:01:39Z</time>
+    <name>004</name>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.181329</gpxx:lat>
+      <gpxx:lon>-169.656618</gpxx:lon>
+      <gpxx:y_proj>-14.181329</gpxx:y_proj>
+      <gpxx:x_proj>-169.656618</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.181496" lon="-169.657328">
+    <ele>35.061184</ele>
+    <time>2019-06-23T01:43:57Z</time>
+    <name>005</name>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.181496</gpxx:lat>
+      <gpxx:lon>-169.657328</gpxx:lon>
+      <gpxx:y_proj>-14.181496</gpxx:y_proj>
+      <gpxx:x_proj>-169.657328</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.180899" lon="-169.657619">
+    <ele>38.66378</ele>
+    <time>2019-06-23T01:56:08Z</time>
+    <name>END1</name>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.180899</gpxx:lat>
+      <gpxx:lon>-169.657619</gpxx:lon>
+      <gpxx:y_proj>-14.180899</gpxx:y_proj>
+      <gpxx:x_proj>-169.657619</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.180877" lon="-169.657677">
+    <ele>33.644432</ele>
+    <time>2019-06-23T02:00:35Z</time>
+    <name>START2</name>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.180877</gpxx:lat>
+      <gpxx:lon>-169.657677</gpxx:lon>
+      <gpxx:y_proj>-14.180877</gpxx:y_proj>
+      <gpxx:x_proj>-169.657677</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.180958" lon="-169.657872">
+    <ele>75.655045</ele>
+    <time>2019-06-23T02:21:03Z</time>
+    <name>END2</name>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.180958</gpxx:lat>
+      <gpxx:lon>-169.657872</gpxx:lon>
+      <gpxx:y_proj>-14.180958</gpxx:y_proj>
+      <gpxx:x_proj>-169.657872</gpxx:x_proj>
+    </extensions>
+  </wpt>
+</gpx>
