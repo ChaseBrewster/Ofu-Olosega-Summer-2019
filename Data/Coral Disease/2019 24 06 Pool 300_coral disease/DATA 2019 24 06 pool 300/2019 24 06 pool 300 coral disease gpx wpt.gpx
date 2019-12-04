@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="-14.182240999999999" minlon="-169.659360999999990" maxlat="-14.180732000000001" maxlon="-169.657627999999990" />
+  </metadata>
+  <wpt lat="-14.180732" lon="-169.657628">
+    <ele>14.650833</ele>
+    <time>2019-06-24T20:17:33Z</time>
+    <name>S3</name>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.180732</gpxx:lat>
+      <gpxx:lon>-169.657628</gpxx:lon>
+      <gpxx:y_proj>-14.180732</gpxx:y_proj>
+      <gpxx:x_proj>-169.657628</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.182024" lon="-169.658133">
+    <ele>12.103263</ele>
+    <time>2019-06-24T20:49:19Z</time>
+    <name>170</name>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.182024</gpxx:lat>
+      <gpxx:lon>-169.658133</gpxx:lon>
+      <gpxx:y_proj>-14.182024</gpxx:y_proj>
+      <gpxx:x_proj>-169.658133</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.182241" lon="-169.659361">
+    <ele>72.949471</ele>
+    <time>2019-06-24T21:24:54Z</time>
+    <name>E03</name>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.182241</gpxx:lat>
+      <gpxx:lon>-169.659361</gpxx:lon>
+      <gpxx:y_proj>-14.182241</gpxx:y_proj>
+      <gpxx:x_proj>-169.659361</gpxx:x_proj>
+    </extensions>
+  </wpt>
+</gpx>
