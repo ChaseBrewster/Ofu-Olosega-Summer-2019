@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="-14.182240999999999" minlon="-169.659360999999990" maxlat="-14.177357000000001" maxlon="-169.653264000000010" />
+  </metadata>
+  <wpt lat="-14.180732" lon="-169.657628">
+    <ele>14.650833</ele>
+    <time>2019-06-24T20:17:33Z</time>
+    <name>S3</name>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.180732</gpxx:lat>
+      <gpxx:lon>-169.657628</gpxx:lon>
+      <gpxx:y_proj>-14.180732</gpxx:y_proj>
+      <gpxx:x_proj>-169.657628</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.182024" lon="-169.658133">
+    <ele>12.103263</ele>
+    <time>2019-06-24T20:49:19Z</time>
+    <name>170</name>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.182024</gpxx:lat>
+      <gpxx:lon>-169.658133</gpxx:lon>
+      <gpxx:y_proj>-14.182024</gpxx:y_proj>
+      <gpxx:x_proj>-169.658133</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.182241" lon="-169.659361">
+    <ele>72.949471</ele>
+    <time>2019-06-24T21:24:54Z</time>
+    <name>E03</name>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.182241</gpxx:lat>
+      <gpxx:lon>-169.659361</gpxx:lon>
+      <gpxx:y_proj>-14.182241</gpxx:y_proj>
+      <gpxx:x_proj>-169.659361</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.177896" lon="-169.654242">
+    <ele>20.200871</ele>
+    <time>2019-06-25T01:46:02Z</time>
+    <name>S04</name>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.177896</gpxx:lat>
+      <gpxx:lon>-169.654242</gpxx:lon>
+      <gpxx:y_proj>-14.177896</gpxx:y_proj>
+      <gpxx:x_proj>-169.654242</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.178321" lon="-169.654071">
+    <ele>41.01593</ele>
+    <time>2019-06-25T01:58:57Z</time>
+    <name>171</name>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.178321</gpxx:lat>
+      <gpxx:lon>-169.654071</gpxx:lon>
+      <gpxx:y_proj>-14.178321</gpxx:y_proj>
+      <gpxx:x_proj>-169.654071</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.178667" lon="-169.653977">
+    <ele>37.919029</ele>
+    <time>2019-06-25T02:08:01Z</time>
+    <name>172</name>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.178667</gpxx:lat>
+      <gpxx:lon>-169.653977</gpxx:lon>
+      <gpxx:y_proj>-14.178667</gpxx:y_proj>
+      <gpxx:x_proj>-169.653977</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.178716" lon="-169.653988">
+    <ele>36.324989</ele>
+    <time>2019-06-25T02:13:13Z</time>
+    <name>173</name>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.178716</gpxx:lat>
+      <gpxx:lon>-169.653988</gpxx:lon>
+      <gpxx:y_proj>-14.178716</gpxx:y_proj>
+      <gpxx:x_proj>-169.653988</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.178781" lon="-169.653955">
+    <ele>29.380131</ele>
+    <time>2019-06-25T02:22:02Z</time>
+    <name>174</name>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.178781</gpxx:lat>
+      <gpxx:lon>-169.653955</gpxx:lon>
+      <gpxx:y_proj>-14.178781</gpxx:y_proj>
+      <gpxx:x_proj>-169.653955</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.17877" lon="-169.653967">
+    <ele>32.142773</ele>
+    <time>2019-06-25T02:25:50Z</time>
+    <name>175</name>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.17877</gpxx:lat>
+      <gpxx:lon>-169.653967</gpxx:lon>
+      <gpxx:y_proj>-14.17877</gpxx:y_proj>
+      <gpxx:x_proj>-169.653967</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.178279" lon="-169.653264">
+    <ele>60.920456</ele>
+    <time>2019-06-25T02:58:05Z</time>
+    <name>176</name>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.178279</gpxx:lat>
+      <gpxx:lon>-169.653264</gpxx:lon>
+      <gpxx:y_proj>-14.178279</gpxx:y_proj>
+      <gpxx:x_proj>-169.653264</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.177357" lon="-169.653688">
+    <ele>56.094498</ele>
+    <time>2019-06-25T03:21:00Z</time>
+    <name>177</name>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.177357</gpxx:lat>
+      <gpxx:lon>-169.653688</gpxx:lon>
+      <gpxx:y_proj>-14.177357</gpxx:y_proj>
+      <gpxx:x_proj>-169.653688</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.177361" lon="-169.653681">
+    <ele>55.284592</ele>
+    <time>2019-06-25T03:21:27Z</time>
+    <name>E04</name>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.177361</gpxx:lat>
+      <gpxx:lon>-169.653681</gpxx:lon>
+      <gpxx:y_proj>-14.177361</gpxx:y_proj>
+      <gpxx:x_proj>-169.653681</gpxx:x_proj>
+    </extensions>
+  </wpt>
+</gpx>
