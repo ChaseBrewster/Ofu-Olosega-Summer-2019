@@ -1,0 +1,5 @@
+type	ident	Latitude	Longitude	y_proj	x_proj	comment	display	symbol	dist	proximity	color	altitude	depth	temp	time	wpt_class	sub_class	attrib	link	state	country	city	address	zip	facility	crossroad	ete	dtype	model	filename	ltime	magvar	geoidheight	desc	fix	sat	hdop	vdop	pdop	ageofdgpsdata	dgpsid	dir
+WAYPOINT	115	-14.184354	-169.666336	-14.184354	-169.666336			Flag, Blue				49.528046			2019/07/30 00:57:27+00														garmin GPSMAP 64s Software Version 500		2019/07/29 13:57:27											
+WAYPOINT	116	-14.184219	-169.666523	-14.184219	-169.666523			Flag, Blue				55.648617			2019/07/30 00:57:26+00														garmin GPSMAP 64s Software Version 500		2019/07/29 13:57:26											
+WAYPOINT	117	-14.184292	-169.666371	-14.184292	-169.666371			Flag, Blue				55.425716			2019/07/30 00:57:27+00														garmin GPSMAP 64s Software Version 500		2019/07/29 13:57:27											
+WAYPOINT	118	-14.184319	-169.666345	-14.184319	-169.666345			Flag, Blue				56.900669			2019/07/30 00:57:27+00														garmin GPSMAP 64s Software Version 500		2019/07/29 13:57:27											

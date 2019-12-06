@@ -1,0 +1,2 @@
+type	tident	ident	Latitude	Longitude	y_proj	x_proj	comment	new_trk	new_seg	display	color	altitude	depth	temp	time	model	filename	ltime	desc	link
+TRACK	Current Track: 19 JUL 2019 09:56	T1	-14.1794422176	-169.6231573541	-14.1794422176	-169.6231573541		False	False			29.47			2019/07/25 23:10:16	garmin GPSMAP 64s Software Version 500		2019/07/25 12:10:16		
