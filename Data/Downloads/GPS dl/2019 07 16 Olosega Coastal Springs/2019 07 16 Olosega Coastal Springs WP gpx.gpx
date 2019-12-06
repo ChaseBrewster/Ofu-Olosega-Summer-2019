@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="-14.182110000000000" minlon="-169.621848000000000" maxlat="-14.180949999999999" maxlon="-169.621597000000010" />
+  </metadata>
+  <wpt lat="-14.181105" lon="-169.621779">
+    <ele>28.887463</ele>
+    <time>2019-07-17T00:00:21Z</time>
+    <name>087</name>
+    <src>garmin GPSMAP 64s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.181105</gpxx:lat>
+      <gpxx:lon>-169.621779</gpxx:lon>
+      <gpxx:y_proj>-14.181105</gpxx:y_proj>
+      <gpxx:x_proj>-169.621779</gpxx:x_proj>
+      <gpxx:ltime>2019/07/16 13:00:21</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.181112" lon="-169.621773">
+    <ele>29.90601</ele>
+    <time>2019-07-17T00:01:53Z</time>
+    <name>088</name>
+    <src>garmin GPSMAP 64s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.181112</gpxx:lat>
+      <gpxx:lon>-169.621773</gpxx:lon>
+      <gpxx:y_proj>-14.181112</gpxx:y_proj>
+      <gpxx:x_proj>-169.621773</gpxx:x_proj>
+      <gpxx:ltime>2019/07/16 13:01:53</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.181996" lon="-169.621662">
+    <ele>16.453629</ele>
+    <time>2019-07-17T00:31:54Z</time>
+    <name>089</name>
+    <src>garmin GPSMAP 64s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.181996</gpxx:lat>
+      <gpxx:lon>-169.621662</gpxx:lon>
+      <gpxx:y_proj>-14.181996</gpxx:y_proj>
+      <gpxx:x_proj>-169.621662</gpxx:x_proj>
+      <gpxx:ltime>2019/07/16 13:31:54</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.18211" lon="-169.621597">
+    <ele>18.873228</ele>
+    <time>2019-07-17T00:38:22Z</time>
+    <name>090</name>
+    <src>garmin GPSMAP 64s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.18211</gpxx:lat>
+      <gpxx:lon>-169.621597</gpxx:lon>
+      <gpxx:y_proj>-14.18211</gpxx:y_proj>
+      <gpxx:x_proj>-169.621597</gpxx:x_proj>
+      <gpxx:ltime>2019/07/16 13:38:22</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.18095" lon="-169.621848">
+    <ele>7.855023</ele>
+    <time>2019-07-17T00:59:43Z</time>
+    <name>091</name>
+    <src>garmin GPSMAP 64s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.18095</gpxx:lat>
+      <gpxx:lon>-169.621848</gpxx:lon>
+      <gpxx:y_proj>-14.18095</gpxx:y_proj>
+      <gpxx:x_proj>-169.621848</gpxx:x_proj>
+      <gpxx:ltime>2019/07/16 13:59:43</gpxx:ltime>
+    </extensions>
+  </wpt>
+</gpx>
