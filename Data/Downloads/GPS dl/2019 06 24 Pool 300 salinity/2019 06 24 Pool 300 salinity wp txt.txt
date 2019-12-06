@@ -1,0 +1,11 @@
+type	ident	Latitude	Longitude	y_proj	x_proj	comment	display	symbol	dist	proximity	color	altitude	depth	temp	time	wpt_class	sub_class	attrib	link	state	country	city	address	zip	facility	crossroad	ete	dtype	model	filename	ltime	magvar	geoidheight	desc	fix	sat	hdop	vdop	pdop	ageofdgpsdata	dgpsid	dir
+WAYPOINT	028	-14.179678	-169.655666	-14.179678	-169.655666			Flag, Blue				-11.623528			2019/06/24 20:26:47+00														garmin GPSMAP 64s Software Version 500		2019/06/24 09:26:47											
+WAYPOINT	029	-14.180587	-169.656672	-14.180587	-169.656672			Flag, Blue				-1.275666			2019/06/24 20:34:48+00														garmin GPSMAP 64s Software Version 500		2019/06/24 09:34:48											
+WAYPOINT	030	-14.181082	-169.657658	-14.181082	-169.657658			Flag, Blue				-2.327861			2019/06/24 20:42:23+00														garmin GPSMAP 64s Software Version 500		2019/06/24 09:42:23											
+WAYPOINT	031	-14.181699	-169.658212	-14.181699	-169.658212			Flag, Blue				1.96074			2019/06/24 20:49:52+00														garmin GPSMAP 64s Software Version 500		2019/06/24 09:49:52											
+WAYPOINT	032	-14.181956	-169.658389	-14.181956	-169.658389			Flag, Blue				1.414567			2019/06/24 20:52:33+00														garmin GPSMAP 64s Software Version 500		2019/06/24 09:52:33											
+WAYPOINT	033	-14.182083	-169.658627	-14.182083	-169.658627			Flag, Blue				-2.293536			2019/06/24 20:56:18+00														garmin GPSMAP 64s Software Version 500		2019/06/24 09:56:18											
+WAYPOINT	034	-14.182156	-169.658988	-14.182156	-169.658988			Flag, Blue				3.292387			2019/06/24 21:00:44+00														garmin GPSMAP 64s Software Version 500		2019/06/24 10:00:44											
+WAYPOINT	035	-14.182327	-169.65931	-14.182327	-169.65931			Flag, Blue				-0.312401			2019/06/24 21:04:17+00														garmin GPSMAP 64s Software Version 500		2019/06/24 10:04:17											
+WAYPOINT	036	-14.182648	-169.659571	-14.182648	-169.659571			Flag, Blue				-6.072215			2019/06/24 21:10:27+00														garmin GPSMAP 64s Software Version 500		2019/06/24 10:10:27											
+WAYPOINT	037	-14.182744	-169.659732	-14.182744	-169.659732			Flag, Blue				1.860212			2019/06/24 21:13:17+00														garmin GPSMAP 64s Software Version 500		2019/06/24 10:13:17											

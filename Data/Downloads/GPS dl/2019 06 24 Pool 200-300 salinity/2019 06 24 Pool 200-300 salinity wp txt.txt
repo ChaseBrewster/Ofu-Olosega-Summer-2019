@@ -1,0 +1,10 @@
+type	ident	Latitude	Longitude	y_proj	x_proj	comment	display	symbol	dist	proximity	color	altitude	depth	temp	time	wpt_class	sub_class	attrib	link	state	country	city	address	zip	facility	crossroad	ete	dtype	model	filename	ltime	magvar	geoidheight	desc	fix	sat	hdop	vdop	pdop	ageofdgpsdata	dgpsid	dir
+WAYPOINT	038	-14.180885	-169.656812	-14.180885	-169.656812			Flag, Blue				3.150344			2019/06/24 22:16:58+00														garmin GPSMAP 64s Software Version 500		2019/06/24 11:16:58											
+WAYPOINT	039	-14.18208	-169.658188	-14.18208	-169.658188			Flag, Blue				-1.253545			2019/06/24 22:25:33+00														garmin GPSMAP 64s Software Version 500		2019/06/24 11:25:33											
+WAYPOINT	040	-14.182301	-169.658427	-14.182301	-169.658427			Flag, Blue				3.044416			2019/06/24 22:27:25+00														garmin GPSMAP 64s Software Version 500		2019/06/24 11:27:25											
+WAYPOINT	041	-14.182424	-169.658781	-14.182424	-169.658781			Flag, Blue				10.439905			2019/06/24 22:28:46+00														garmin GPSMAP 64s Software Version 500		2019/06/24 11:28:46											
+WAYPOINT	042	-14.182612	-169.659565	-14.182612	-169.659565			Flag, Blue				0.26053			2019/06/24 22:30:51+00														garmin GPSMAP 64s Software Version 500		2019/06/24 11:30:51											
+WAYPOINT	043	-14.182838	-169.660012	-14.182838	-169.660012			Flag, Blue				7.481261			2019/06/24 22:32:46+00														garmin GPSMAP 64s Software Version 500		2019/06/24 11:32:46											
+WAYPOINT	044	-14.184367	-169.664996	-14.184367	-169.664996			Flag, Blue				7.208035			2019/06/24 22:50:21+00														garmin GPSMAP 64s Software Version 500		2019/06/24 11:50:21											
+WAYPOINT	045	-14.184918	-169.666498	-14.184918	-169.666498			Flag, Blue				-2.644602			2019/06/24 22:54:47+00														garmin GPSMAP 64s Software Version 500		2019/06/24 11:54:47											
+WAYPOINT	046	-14.184431	-169.665579	-14.184431	-169.665579			Flag, Blue				5.147492			2019/06/24 23:02:56+00														garmin GPSMAP 64s Software Version 500		2019/06/24 12:02:56											

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="-14.182440000000000" minlon="-169.658739999999990" maxlat="-14.181600000000000" maxlon="-169.657999999999990" />
+  </metadata>
+  <wpt lat="-14.1816" lon="-169.658">
+    <ele>7.083713</ele>
+    <time>2019-06-25T01:39:43Z</time>
+    <name>LOG CRAG 300 5</name>
+    <src>garmin GPSMAP 64s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.1816</gpxx:lat>
+      <gpxx:lon>-169.658</gpxx:lon>
+      <gpxx:y_proj>-14.1816</gpxx:y_proj>
+      <gpxx:x_proj>-169.658</gpxx:x_proj>
+      <gpxx:ltime>2019/06/24 14:39:43</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.18244" lon="-169.65874">
+    <ele>6.57603</ele>
+    <time>2019-06-25T01:41:13Z</time>
+    <name>LOG CRAG 300 6</name>
+    <src>garmin GPSMAP 64s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.18244</gpxx:lat>
+      <gpxx:lon>-169.65874</gpxx:lon>
+      <gpxx:y_proj>-14.18244</gpxx:y_proj>
+      <gpxx:x_proj>-169.65874</gpxx:x_proj>
+      <gpxx:ltime>2019/06/24 14:41:13</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.18231" lon="-169.65847">
+    <ele>6.43436</ele>
+    <time>2019-06-25T01:43:22Z</time>
+    <name>LOG CRAG 300 7</name>
+    <src>garmin GPSMAP 64s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.18231</gpxx:lat>
+      <gpxx:lon>-169.65847</gpxx:lon>
+      <gpxx:y_proj>-14.18231</gpxx:y_proj>
+      <gpxx:x_proj>-169.65847</gpxx:x_proj>
+      <gpxx:ltime>2019/06/24 14:43:22</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.18207" lon="-169.65829">
+    <ele>7.524436</ele>
+    <time>2019-06-25T01:44:54Z</time>
+    <name>LOG CRAG 300 8</name>
+    <src>garmin GPSMAP 64s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.18207</gpxx:lat>
+      <gpxx:lon>-169.65829</gpxx:lon>
+      <gpxx:y_proj>-14.18207</gpxx:y_proj>
+      <gpxx:x_proj>-169.65829</gpxx:x_proj>
+      <gpxx:ltime>2019/06/24 14:44:54</gpxx:ltime>
+    </extensions>
+  </wpt>
+  <wpt lat="-14.181764" lon="-169.658424">
+    <ele>43.051624</ele>
+    <time>2019-06-25T03:45:27Z</time>
+    <name>SONDE0624</name>
+    <src>garmin GPSMAP 64s S</src>
+    <sym>Flag, Blue</sym>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>-14.181764</gpxx:lat>
+      <gpxx:lon>-169.658424</gpxx:lon>
+      <gpxx:y_proj>-14.181764</gpxx:y_proj>
+      <gpxx:x_proj>-169.658424</gpxx:x_proj>
+      <gpxx:ltime>2019/06/24 16:45:27</gpxx:ltime>
+    </extensions>
+  </wpt>
+</gpx>
