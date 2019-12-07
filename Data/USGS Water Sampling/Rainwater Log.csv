@@ -1,0 +1,15 @@
+"Location: Olosega House (-14.18396, -169.66676)",,,,,,,
+Sample ID,Date,Time,Air Temperature (C),Duration (Min),Rainfall Amount (cm),Rainfall Amount (mL),Notes
+Olo-RW-1,7/1/19,7:45,27.18,30,0.5,5,
+Olo-RW-2,7/1/19,14:18,27.22,120,27,270,"Two periods of rain while in the field, both ~1 hour"
+Olo-RW-3,7/3/19,8:45,27.24,75,3.5,35,Overnight periodic rain - seemed to be raiining harder but the gauge didn't collect much water
+Olo-RW-4,7/6/19,18:50,26.8,180,20,200,
+Olo-RW-5,7/13/19,15:30,27.33,170,12,120,Two events while in the field; 1st event ~120 minutes; 2nd ~ 50 minutes
+Olo-RW-6,7/15/19,9:10,27.31,60,11,110,
+Olo-RW-7,7/18/19,12:30,26.4,270,40,400,Heavy rainfall early in the morning and light drizzles the rest of morning 
+Olo-RW-8,7/22/19,11:00,26.92,60,5,50,Light to medium showers
+Olo-RW-9,7/23/19,17:00,26.78,210,40,400,Steady rainfall with intermittent heavy rains
+Olo-RW-10,7/24/19,7:42,26.33,180,55,550,Overnight - duration is approximate
+Olo-RW-11,7/26/19,10:50,26.26,380,52,520,"Heavy rains through late afternoon, lighter rain continued through the night and into the morning. Duration is approximate"
+Olo-RW-12,7/29/19,9:42,26.16,180,36,360,Overnight - duration is approximate
+Olo-RW-13,7/29/19,20:40,26.68,65,4,40,
