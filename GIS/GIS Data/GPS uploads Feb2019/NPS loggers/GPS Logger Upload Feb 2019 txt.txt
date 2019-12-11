@@ -1,0 +1,33 @@
+type	ident	Latitude	Longitude	y_proj	x_proj	comment	display	symbol	dist	proximity	color	altitude	depth	temp	time	wpt_class	sub_class	attrib	link	state	country	city	address	zip	facility	crossroad	ete	dtype	model	filename	ltime	magvar	geoidheight	desc	fix	sat	hdop	vdop	pdop	ageofdgpsdata	dgpsid	dir
+WAYPOINT	L CRAG 200.1	-14.18462	-169.66507	-14.18462	-169.66507																																					
+WAYPOINT	L CRAG 200.2	-14.18448	-169.66527	-14.18448	-169.66527																																					
+WAYPOINT	L CRAG 200.3	-14.18456	-169.66547	-14.18456	-169.66547																																					
+WAYPOINT	L CRAG 200.4	-14.18475	-169.66536	-14.18475	-169.66536																																					
+WAYPOINT	L CRAG 300.5	-14.1816	-169.658	-14.1816	-169.658																																					
+WAYPOINT	L NPS 300 July18	-14.182032	-169.658383	-14.182032	-169.658383																																					
+WAYPOINT	L NPS 300.2	-14.18211	-169.658399	-14.18211	-169.658399																																					
+WAYPOINT	L NPS 300.1	-14.181648	-169.657511	-14.181648	-169.657511																																					
+WAYPOINT	L NPS 400.3	-14.179033	-169.654288	-14.179033	-169.654288																																					
+WAYPOINT	L NPS 400.1	-14.178469	-169.653939	-14.178469	-169.653939																																					
+WAYPOINT	L NPS 400.2	-14.177827	-169.652995	-14.177827	-169.652995																																					
+WAYPOINT	L NPS 500.2	-14.171754	-169.644451	-14.171754	-169.644451																																					
+WAYPOINT	L Jul18 Val 1	-14.18508173	-169.665814	-14.18508173	-169.665814																																					
+WAYPOINT	L Jul18 Val 2	-14.1846825	-169.6654125	-14.1846825	-169.6654125																																					
+WAYPOINT	L Jul18 Val 3	-14.18455945	-169.6650879	-14.18455945	-169.6650879																																					
+WAYPOINT	L Jul18 NPS 300.4	-14.18305	-169.66037	-14.18305	-169.66037																																					
+WAYPOINT	L Jul18 NPS 300.5	-14.18321	-169.65977	-14.18321	-169.65977																																					
+WAYPOINT	L Jul18 NPS 300.6	-14.18297	-169.65942	-14.18297	-169.65942																																					
+WAYPOINT	L Jul18 NPS 300.3	-14.18212	-169.65889	-14.18212	-169.65889																																					
+WAYPOINT	L Jul18 Val 4	-14.182032	-169.658383	-14.182032	-169.658383																																					
+WAYPOINT	L Jul18 Val 5	-14.18169464	-169.6581817	-14.18169464	-169.6581817																																					
+WAYPOINT	L Jul18 Val 6	-14.18157075	-169.65799	-14.18157075	-169.65799																																					
+WAYPOINT	L Jul18 NPS 400.6	-14.18007	-169.65515	-14.18007	-169.65515																																					
+WAYPOINT	L Jul18 NPS 400.4	-14.17915	-169.65497	-14.17915	-169.65497																																					
+WAYPOINT	L Jul18 NPS 400.5	-14.17756	-169.65225	-14.17756	-169.65225																																					
+WAYPOINT	L Jul18 Val 7	-14.17344167	-169.6481178	-14.17344167	-169.6481178																																					
+WAYPOINT	L Jul18 Val 8	-14.17337253	-169.6476187	-14.17337253	-169.6476187																																					
+WAYPOINT	L Jul18 Val 9	-14.17304069	-169.647419	-14.17304069	-169.647419																																					
+WAYPOINT	L Jul18 NPS 500.3	-14.17164	-169.64398	-14.17164	-169.64398																																					
+WAYPOINT	L Jul18 NPS 500.4	-14.171595	-169.643816	-14.171595	-169.643816																																					
+																																										
+																																										
